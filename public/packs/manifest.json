@@ -1,0 +1,74 @@
+{
+  "application.js": "/packs/js/application-a317a5b029dd08fc92c1.js",
+  "application.js.map": "/packs/js/application-a317a5b029dd08fc92c1.js.map",
+  "csv_loader.js": "/packs/js/csv_loader-e61f2811ab939a54c275.js",
+  "csv_loader.js.map": "/packs/js/csv_loader-e61f2811ab939a54c275.js.map",
+  "entrypoints": {
+    "application": {
+      "js": [
+        "/packs/js/application-a317a5b029dd08fc92c1.js"
+      ],
+      "js.map": [
+        "/packs/js/application-a317a5b029dd08fc92c1.js.map"
+      ]
+    },
+    "csv_loader": {
+      "js": [
+        "/packs/js/csv_loader-e61f2811ab939a54c275.js"
+      ],
+      "js.map": [
+        "/packs/js/csv_loader-e61f2811ab939a54c275.js.map"
+      ]
+    },
+    "hello_angular": {
+      "js": [
+        "/packs/js/hello_angular-0240b9e0d89fa165949e.js"
+      ],
+      "js.map": [
+        "/packs/js/hello_angular-0240b9e0d89fa165949e.js.map"
+      ]
+    },
+    "hello_typescript": {
+      "js": [
+        "/packs/js/hello_typescript-433502787be80293ede6.js"
+      ],
+      "js.map": [
+        "/packs/js/hello_typescript-433502787be80293ede6.js.map"
+      ]
+    },
+    "ry_contacts": {
+      "js": [
+        "/packs/js/ry_contacts-25c9acf3bfcf1e96ed68.js"
+      ],
+      "js.map": [
+        "/packs/js/ry_contacts-25c9acf3bfcf1e96ed68.js.map"
+      ]
+    },
+    "ry_data_file_show": {
+      "js": [
+        "/packs/js/ry_data_file_show-b38baa6e3ddb5209fb38.js"
+      ],
+      "js.map": [
+        "/packs/js/ry_data_file_show-b38baa6e3ddb5209fb38.js.map"
+      ]
+    },
+    "ry_data_files": {
+      "js": [
+        "/packs/js/ry_data_files-c8ec16220598ec8b9124.js"
+      ],
+      "js.map": [
+        "/packs/js/ry_data_files-c8ec16220598ec8b9124.js.map"
+      ]
+    }
+  },
+  "hello_angular.js": "/packs/js/hello_angular-0240b9e0d89fa165949e.js",
+  "hello_angular.js.map": "/packs/js/hello_angular-0240b9e0d89fa165949e.js.map",
+  "hello_typescript.js": "/packs/js/hello_typescript-433502787be80293ede6.js",
+  "hello_typescript.js.map": "/packs/js/hello_typescript-433502787be80293ede6.js.map",
+  "ry_contacts.js": "/packs/js/ry_contacts-25c9acf3bfcf1e96ed68.js",
+  "ry_contacts.js.map": "/packs/js/ry_contacts-25c9acf3bfcf1e96ed68.js.map",
+  "ry_data_file_show.js": "/packs/js/ry_data_file_show-b38baa6e3ddb5209fb38.js",
+  "ry_data_file_show.js.map": "/packs/js/ry_data_file_show-b38baa6e3ddb5209fb38.js.map",
+  "ry_data_files.js": "/packs/js/ry_data_files-c8ec16220598ec8b9124.js",
+  "ry_data_files.js.map": "/packs/js/ry_data_files-c8ec16220598ec8b9124.js.map"
+}

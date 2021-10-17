@@ -1,0 +1,74 @@
+{
+  "application.js": "/packs-test/js/application-d577f06fa07d5243835b.js",
+  "application.js.map": "/packs-test/js/application-d577f06fa07d5243835b.js.map",
+  "csv_loader.js": "/packs-test/js/csv_loader-08312ec9679891ef75a2.js",
+  "csv_loader.js.map": "/packs-test/js/csv_loader-08312ec9679891ef75a2.js.map",
+  "entrypoints": {
+    "application": {
+      "js": [
+        "/packs-test/js/application-d577f06fa07d5243835b.js"
+      ],
+      "js.map": [
+        "/packs-test/js/application-d577f06fa07d5243835b.js.map"
+      ]
+    },
+    "csv_loader": {
+      "js": [
+        "/packs-test/js/csv_loader-08312ec9679891ef75a2.js"
+      ],
+      "js.map": [
+        "/packs-test/js/csv_loader-08312ec9679891ef75a2.js.map"
+      ]
+    },
+    "hello_angular": {
+      "js": [
+        "/packs-test/js/hello_angular-9fdfd8d31253fa2a6537.js"
+      ],
+      "js.map": [
+        "/packs-test/js/hello_angular-9fdfd8d31253fa2a6537.js.map"
+      ]
+    },
+    "hello_typescript": {
+      "js": [
+        "/packs-test/js/hello_typescript-4ea687207a9046f1de61.js"
+      ],
+      "js.map": [
+        "/packs-test/js/hello_typescript-4ea687207a9046f1de61.js.map"
+      ]
+    },
+    "ry_contacts": {
+      "js": [
+        "/packs-test/js/ry_contacts-d0ea5c0dc6c384e0621c.js"
+      ],
+      "js.map": [
+        "/packs-test/js/ry_contacts-d0ea5c0dc6c384e0621c.js.map"
+      ]
+    },
+    "ry_data_file_show": {
+      "js": [
+        "/packs-test/js/ry_data_file_show-d54b3996b03fc56fe20d.js"
+      ],
+      "js.map": [
+        "/packs-test/js/ry_data_file_show-d54b3996b03fc56fe20d.js.map"
+      ]
+    },
+    "ry_data_files": {
+      "js": [
+        "/packs-test/js/ry_data_files-bd7b375bd86fc4931232.js"
+      ],
+      "js.map": [
+        "/packs-test/js/ry_data_files-bd7b375bd86fc4931232.js.map"
+      ]
+    }
+  },
+  "hello_angular.js": "/packs-test/js/hello_angular-9fdfd8d31253fa2a6537.js",
+  "hello_angular.js.map": "/packs-test/js/hello_angular-9fdfd8d31253fa2a6537.js.map",
+  "hello_typescript.js": "/packs-test/js/hello_typescript-4ea687207a9046f1de61.js",
+  "hello_typescript.js.map": "/packs-test/js/hello_typescript-4ea687207a9046f1de61.js.map",
+  "ry_contacts.js": "/packs-test/js/ry_contacts-d0ea5c0dc6c384e0621c.js",
+  "ry_contacts.js.map": "/packs-test/js/ry_contacts-d0ea5c0dc6c384e0621c.js.map",
+  "ry_data_file_show.js": "/packs-test/js/ry_data_file_show-d54b3996b03fc56fe20d.js",
+  "ry_data_file_show.js.map": "/packs-test/js/ry_data_file_show-d54b3996b03fc56fe20d.js.map",
+  "ry_data_files.js": "/packs-test/js/ry_data_files-bd7b375bd86fc4931232.js",
+  "ry_data_files.js.map": "/packs-test/js/ry_data_files-bd7b375bd86fc4931232.js.map"
+}
