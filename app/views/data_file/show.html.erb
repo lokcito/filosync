@@ -1,0 +1,23 @@
+<div>
+	<div class="card">
+		<div class="card-header">
+			<%= @dataFile.filename %>
+		</div>
+		<div class="card-body">
+
+			<div class="list-group">
+			  <div class="list-group-item">
+					Total rows: <%= @dataFile.get_n_rows %>
+			  </div>
+			  <div class="list-group-item">
+					Total valid rows: <%= @dataFile.get_n_valid_rows %>
+			  </div>
+			  <div class="list-group-item">
+					Total issued rows: <%= @dataFile.get_n_issued_rows %>
+			  </div>
+			</div>
+			<ry-data-file-show id="<%= @dataFile.id %>"></ry-data-file-show>
+		</div>
+	</div>
+</div>
+<%= javascript_pack_tag 'ry_data_file_show' %>
