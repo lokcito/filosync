@@ -60,6 +60,7 @@ group :test do
 end
 
 group :production do 
+  gem 'postmark-rails'
   gem "pg"
   gem 'exception_notification'
 end
