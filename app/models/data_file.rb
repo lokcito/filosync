@@ -22,7 +22,7 @@ class DataFile < ApplicationRecord
 	end
 
 	def self.get_path_to_store(filename)
-		return Rails.root.join('tmp', 'storage', "#{filename}")
+		return Rails.root.join('tmp', "#{filename}")
 	end
 
   def self.static_columns
